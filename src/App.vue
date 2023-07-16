@@ -1,19 +1,21 @@
 <template>
-  <!-- <img alt="Vue logo" src="./assets/logo.png"> -->
   <Navbar></Navbar>
   <Form></Form>
+  <Table></Table>
 </template>
 
 <script>
-//import HelloWorld from './components/HelloWorld.vue'
+
 import Navbar from './components/Navbar.vue';
-import Form from './components/Form.vue'
+import Form from './components/Form.vue';
+import Table from './components/Table.vue';
 
 export default {
   name: 'App',
   components: {
     Navbar,
-    Form
+    Form,
+    Table
     //HelloWorld
   }
 }

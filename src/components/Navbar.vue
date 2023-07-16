@@ -29,7 +29,6 @@
           <li class="nav-item">
             <a class="nav-link" href="#">Contact</a>
           </li>
-          <!-- Dropdown menu -->
           <li class="nav-item dropdown">
             <a
               class="nav-link dropdown-toggle"
@@ -51,7 +50,6 @@
           </li>
         </ul>
         <ul class="navbar-nav">
-          <!-- Add any additional right-aligned items here -->
           <li class="nav-item">
             <a class="nav-link" href="#">Login</a>
           </li>
@@ -66,7 +64,6 @@ export default {};
 </script>
 
 <style>
-    /* Custom CSS for sticky header */
     body {
       padding-top: 0;
     }

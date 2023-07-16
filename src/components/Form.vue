@@ -46,10 +46,14 @@
   .player-form {
     max-width: 500px;
     padding: 20px;
-    margin: 0 auto;
+    margin: 50px auto;
     border: 1px solid #ccc;
     border-radius: 15px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); 
+  }
+  h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 50px auto;
   }
   
   </style>
